@@ -1,0 +1,37 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+#centerall {
+	background-color: #ff0000;
+	background-image: url(../img/camera.svg);
+	background-repeat: no-repeat;
+	background-size: width:100vw height:1em;
+	background-position: center;
+	height: 100vh;
+	text-align: center;
+}
+#btn {
+	background-color: #fff;
+	position: sticky;
+	margin: 0 auto;
+	margin-top: 50vh;
+	height: 100px;
+	cursor: pointer;
+}
+#sub {
+	position: sticky;
+	background-image: url(../img/send.svg);
+	background-size: width:24px;
+	background-repeat: no-repeat;
+	margin-top: 18.5vh;
+	width: 150px;
+	height: 120px;
+	opacity: 0.8;
+	border-radius: 4px;
+	border: none;
+	cursor: pointer;
+}
+;
