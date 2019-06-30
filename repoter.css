@@ -6,7 +6,7 @@ body {
 }
 #centerall {
 	background-color: #ff0000;
-	background-image: url(../img/camera.svg);
+	background-image: url(./img/camera.svg);
 	background-repeat: no-repeat;
 	background-size: width:100vw height:1em;
 	background-position: center;
@@ -23,7 +23,7 @@ body {
 }
 #sub {
 	position: sticky;
-	background-image: url(../img/send.svg);
+	background-image: url(./img/send.svg);
 	background-size: width:24px;
 	background-repeat: no-repeat;
 	margin-top: 18.5vh;
